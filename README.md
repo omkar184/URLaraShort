@@ -3,6 +3,7 @@
 Simple URL shortener with Laravel Framework
 =================================================
 by Onkar Sagare <omkarsagare184@gmail.com>
+![image](https://github.com/omkar184/URLaraShort/blob/master/Docs/Screenshot-1.png)
 
 Setup
 
