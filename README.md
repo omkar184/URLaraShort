@@ -2,7 +2,7 @@
 
 Simple URL shortener with Laravel Framework
 =================================================
-by Onkar Sagare<omkarsagare184@gmail.com>
+by Onkar Sagare <omkarsagare184@gmail.com>
 
 Setup
 
