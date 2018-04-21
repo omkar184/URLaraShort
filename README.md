@@ -4,6 +4,8 @@ Simple URL shortener with Laravel Framework
 =================================================
 by Onkar Sagare <omkarsagare184@gmail.com>
 
+![Alt text](/../<branch name>/Docs/screenshot-1.png?raw=true "Optional Title")
+
 Setup
 
 You need to have Apache server and MySQL server installed on your system.
