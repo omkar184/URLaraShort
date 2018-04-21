@@ -14,6 +14,7 @@ Apache version
 3. Download the database file and import it in your server
 4. Open ROOT/local/app/config/database.php to setup mysql database
    Edit Code for database setup:
+```php
     'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
