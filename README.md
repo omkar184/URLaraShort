@@ -25,6 +25,7 @@ Apache version
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
 		),
+```
 5. Open the url of the project. 
    For ex: http://localhost/URLaraShort
 
